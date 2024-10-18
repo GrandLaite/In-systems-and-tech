@@ -114,5 +114,7 @@ func main() {
         return
     }
 
+https://drive.google.com/drive/folders/1e57pyccWZlPAB9Ze9zaGD7Z7K1VBxLmj?usp=drive_link
+
     fmt.Println("Файл успешно преобразован и сохранен как", newFilePath)
 }
